@@ -20,7 +20,7 @@ It uses the official **v1-5-pruned-emaonly.ckpt** model weights and supports pro
 
 You can try the full working implementation directly in Google Colab:
 
-👉 **[Open the Colab Notebook](https://colab.research.google.com/github/VasuVerma990/Stable-Diffusion/blob/main.ipynb)**
+👉 **[Open the Colab Notebook](https://colab.research.google.com/github/VasuVerma990/Stable-Diffusion/blob/_Main_.ipynb)**
 
 
 ---
